@@ -1,1 +1,1 @@
-new-azresourcegroup -name $(a) -location $(b)
+new-azresourcegroup -name "drg" -location "west europe"
